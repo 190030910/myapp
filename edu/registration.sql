@@ -1,0 +1,11 @@
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('801', 'vinay', 'vsk', 'eluru', 'andhra pradesh', '9875463210', 'vinay@gmail.com', 'CSE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('802', 'govindh', 'gov', 'vijayawada', 'andhra pradesh', '9874563210', 'govindh@gmail.com', 'CSE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('803', 'jaydeep', 'jay', 'hyderabad', 'telengana', '7895463210', 'jaydeep@gmail.com', 'CSE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('804', 'lohith', 'loh', 'kurnool', 'andhra pradesh', '9874564568', 'lohit@gmail.com', 'CSE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('805', 'gopi', 'gop', 'hyderabad', 'telengana', '3215469872', 'gopi@gmail.com', 'CSE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('806', 'shekar', 'shk', 'bhimavaram', 'andhra pradesh', '4647895620', 'shekar@gmail.com', 'ECE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('807', 'mukesh', 'muk', 'vijayawada', 'andhra pradesh', '9456213987', 'mukesh@gmail.com', 'ECE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('808', 'prabhakar', 'praba', 'bhimavaram', 'andhra pradesh', '5468971235', 'praba@gmail.com', 'ECE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('809', 'venkatesh', 'venky', 'hyderabad', 'telengana', '9874563254', 'venky@gmail.com', 'CSE');
+INSERT INTO `module_1`.`registration` (`user id`, `name`, `password`, `city`, `state`, `mobile no.`, `email id`, `branch`) VALUES ('810', 'mukundh', 'mukul', 'vijayawada', 'andhra pradesh', '8795462135', 'mukundh@gmail.com', 'ECE');
+SELECT * FROM module_1.registration;

@@ -1,0 +1,11 @@
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8011', 'vinay', '202', 'CSE', 'Aravali', '8899443326', '9856247895');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8022', 'govindh', '203', 'CSE', 'vindhiya', '8899443326', '996633554');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8033', 'jaydeep', '204', 'CSE', 'Aravali', '8899443326', '225858974');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8044', 'lohith', '205', 'CSE', 'Aravali', '8899443326', '52255221125');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8055', 'gopi', '206', 'CSE', 'Aravali', '8899443326', '21144522211');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8066', 'shekar', '207', 'ECE', 'Aravali', '8899443326', '221552111');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8077', 'mukesh', '208', 'ECE', 'Aravali', '8899443326', '22114522111');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8088', 'prabhakar', '209', 'ECE', 'Aravali', '8899443326', '212155222');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('8099', 'venaktesh', '210', 'ECE', 'Aravali', '8899443326', '21155221144');
+INSERT INTO `module_1`.`hostel_mangement` (`Id`, `Name`, `RoomNo`, `Branch`, `Hostel_Name`, `Hostel_MoblieNumber`, `Student_MoblieNumber`) VALUES ('9000', 'mukundh', '211', 'CSE', 'Aravali', '8899443326', '9999988854');
+SELECT * FROM module_1.hostel_mangement;

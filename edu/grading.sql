@@ -1,0 +1,11 @@
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8011', 'vinay', '10', '9', '9', '9', '9', '9.2', 'A');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8022', 'govindh', '9', '8', '8', '9', '8', '8.4', 'B');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8033', 'jaydeep', '9', '8', '9', '9', '9', '8.8', 'A');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8044', 'lohith', '8', '9', '9', '9', '9', '8.8', 'A');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8055', 'gopi', '8', '8', '9', '10', '10', '9.0', 'A');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8066', 'shekar', '9', '8', '9', '9', '10', '9.0', 'A');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8077', 'mukesh', '9', '9', '9', '10', '9', '9.2', 'A');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8088', 'prabhakar', '9', '9', '9', '8', '8', '8.6', 'A');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('8099', 'venkatesh', '9', '9', '8', '9', '9', '8.8', 'A');
+INSERT INTO `module_1`.`grading` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`, `CGPA`, `total grade`) VALUES ('9000', 'mukundh', '9', '8', '9', '9', '9', '8.8', 'A');
+SELECT * FROM module_1.grading;

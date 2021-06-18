@@ -1,0 +1,11 @@
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('301', 'vinay', 'dti', '601');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('302', 'govindh', 'se', '602');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('303', 'jaydeep', 'osd', '603');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('304', 'lohith', 'dbms', '604');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('305', 'gopi', 'maths', '605');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('306', 'shekar', 'physics', '606');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('307', 'mukesh', 'pcs', '607');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('308', 'prabhakar', 'quant', '608');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('309', 'venkatesh', 'rpa', '609');
+INSERT INTO `module_1`.`course_registration` (`ID`, `Name`, `Registered course`, `Course ID`) VALUES ('310', 'mukundh', 'mswd', '610');
+SELECT * FROM module_1.course_registration;

@@ -1,0 +1,11 @@
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8011', 'vinay', '90', '91', '92', '90', '87');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8022', 'govindh', '90', '91', '91', '91', '89');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8033', 'jaydeep', '90', '89', '94', '89', '97');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8044', 'lohith', '100', '100', '100', '100', '100');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8055', 'gopi', '98', '99', '97', '95', '96');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8066', 'shekar', '92', '100', '89', '90', '89');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8077', 'mukesh', '95', '100', '98', '98', '87');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8088', 'prabhakar', '96', '100', '89', '97', '95');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('8099', 'venkatesh', '96', '90', '98', '92', '96');
+INSERT INTO `module_1`.`attendence` (`id`, `name`, `SE`, `DBMS`, `OSD`, `AI`, `MSWD`) VALUES ('9000', 'mukundh', '99', '96', '95', '90', '92');
+SELECT * FROM module_1.attendence;
